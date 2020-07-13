@@ -1,0 +1,25 @@
+{
+  "name": "Learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrRola/Git-Learning-git-2-Git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrRola/Git-Learning-git-2-Git/issues"
+  },
+  "homepage": "https://github.com/PiotrRola/Git-Learning-git-2-Git#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "global": "^4.4.0"
+  }
+}
